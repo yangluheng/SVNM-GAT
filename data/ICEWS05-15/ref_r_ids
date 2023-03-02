@@ -1,0 +1,242 @@
+0	320	Mediate
+1	247	Make statement
+2	259	Host a visit
+3	327	Retreat or surrender militarily
+4	248	Sign formal agreement
+5	269	Make an appeal or request
+6	254	Consult
+7	258	Engage in diplomatic cooperation
+8	263	Demand
+9	273	Make a visit
+10	301	Return, release person(s)
+11	256	Express intent to meet or negotiate
+12	325	Provide economic aid
+13	276	Engage in negotiation
+14	250	Arrest, detain, or charge with legal action
+15	336	Increase military alert status
+16	260	Praise or endorse
+17	296	Protest violently, riot
+18	284	Use unconventional violence
+19	253	Criticize or denounce
+20	264	Reject
+21	251	Discuss by telephone
+22	294	Express intent to provide material aid
+23	283	Investigate
+24	321	Consider policy option
+25	261	Express intent to engage in diplomatic cooperation (such as policy support)
+26	252	Reduce relations
+27	265	Express intent to cooperate
+28	314	Abduct, hijack, or take hostage
+29	277	Make pessimistic comment
+30	287	Appeal for intelligence
+31	317	Make empathetic comment
+32	329	Provide aid
+33	292	Impose administrative sanctions
+34	374	Carry out suicide bombing
+35	343	Refuse to yield
+36	257	Accuse
+37	408	Impose state of emergency or martial law
+38	303	Express intent to engage in material cooperation
+39	323	Halt negotiations
+40	297	Make optimistic comment
+41	346	Employ aerial weapons
+42	349	Reject economic cooperation
+43	280	Give ultimatum
+44	271	fight with small arms and light weapons
+45	310	Ease administrative sanctions
+46	255	Engage in material cooperation
+47	359	Reject plan, agreement to settle dispute
+48	275	Use conventional military force
+49	289	Provide military aid
+50	279	Engage in symbolic act
+51	395	Threaten with repression
+52	319	Demonstrate or rally
+53	298	Deny responsibility
+54	382	Reduce or break diplomatic relations
+55	365	Kill by physical assault
+56	285	Mobilize or increase armed forces
+57	267	Threaten
+58	291	Provide humanitarian aid
+59	398	Return, release property
+60	393	Obstruct passage, block
+61	315	Use tactics of violent repression
+62	274	Cooperate militarily
+63	302	Cooperate economically
+64	272	Conduct suicide, car, or other non-military bombing
+65	370	Express intent to provide economic aid
+66	333	Impose restrictions on political freedoms
+67	425	Expel or withdraw peacekeepers
+68	339	Threaten with military force
+69	396	Veto
+70	286	Express intent to settle dispute
+71	282	Express intent to cooperate economically
+72	413	Rally opposition against
+73	278	Meet at a 'third' location
+74	308	Appeal for diplomatic cooperation (such as policy support)
+75	312	Express intent to de-escalate military engagement
+76	399	Demand diplomatic cooperation (such as policy support)
+77	351	Refuse to release persons or property
+78	305	Torture
+79	309	Yield
+80	270	Expel or deport individuals
+81	295	Physically assault
+82	299	Demand economic aid
+83	266	Appeal to others to settle dispute
+84	345	Occupy territory
+85	249	Grant diplomatic recognition
+86	290	Rally support on behalf of
+87	358	Express intent to release persons or property
+88	386	Express accord
+89	361	Reject proposal to meet, discuss, or negotiate
+90	344	Appeal for de-escalation of military engagement
+91	318	Express intent to provide military aid
+92	357	Appeal for change in leadership
+93	335	Confiscate property
+94	306	Complain officially
+95	341	Coerce
+96	401	Appeal for easing of administrative sanctions
+97	367	Demand meeting, negotiation
+98	390	Express intent to accept mediation
+99	332	Sexually assault
+100	322	Accuse of human rights abuses
+101	424	Express intent to yield
+102	307	Impose embargo, boycott, or sanctions
+103	381	Declare truce, ceasefire
+104	443	Ease state of emergency or martial law
+105	392	Express intent to mediate
+106	338	fight with artillery and tanks
+107	384	Reduce or stop economic assistance
+108	355	Express intent to provide military protection or peacekeeping
+109	281	Share intelligence or information
+110	288	Defy norms, law
+111	407	Demonstrate for leadership change
+112	363	Appeal for aid
+113	404	Accede to demands for change in leadership
+114	462	Demand change in institutions, regime
+115	262	Bring lawsuit against
+116	316	Reject judicial cooperation
+117	342	Appeal to others to meet or negotiate
+118	313	Acknowledge or claim responsibility
+119	304	Impose blockade, restrict movement
+120	364	Decline comment
+121	366	Appeal for release of persons or property
+122	331	Demand de-escalation of military engagement
+123	334	Threaten non-force
+124	423	Grant asylum
+125	369	Express intent to provide humanitarian aid
+126	348	Mobilize or increase police power
+127	402	Appeal for economic cooperation
+128	440	Appeal for rights
+129	362	Defend verbally
+130	372	Accuse of crime, corruption
+131	442	Express intent to change leadership
+132	375	Demand change in leadership
+133	414	Appeal to engage in or accept mediation
+134	311	Investigate crime, corruption
+135	268	Demonstrate military or police power
+136	324	Assassinate
+137	356	Provide military protection or peacekeeping
+138	422	Threaten with political dissent, protest
+139	380	Express intent to cooperate militarily
+140	428	Threaten to reduce or break relations
+141	416	Demand settling of dispute
+142	391	Engage in judicial cooperation
+143	388	Accuse of espionage, treason
+144	409	Refuse to de-escalate military engagement
+145	347	Receive deployment of peacekeepers
+146	300	Apologize
+147	379	Demand that target yields
+148	385	Demand material cooperation
+149	371	Appeal for judicial cooperation
+150	330	Appeal for economic aid
+151	456	Accede to demands for change in policy
+152	378	Appeal for military aid
+153	476	Express intent to change institutions, regime
+154	387	Refuse to ease administrative sanctions
+155	433	Threaten with administrative sanctions
+156	441	Accuse of war crimes
+157	377	Attempt to assassinate
+158	352	Express intent to ease administrative sanctions
+159	429	Express intent to cooperate on judicial matters
+160	418	Ban political parties or politicians
+161	293	Appeal for material cooperation
+162	420	Appeal to yield
+163	430	Threaten with sanctions, boycott, embargo
+164	445	Appeal for humanitarian aid
+165	450	Reject material cooperation
+166	412	Forgive
+167	326	Increase police alert status
+168	477	Demonstrate for policy change
+169	406	Destroy property
+170	415	Seize or damage property
+171	360	Conduct strike or boycott
+172	376	Accede to demands for rights
+173	468	Halt mediation
+174	411	Appeal for change in institutions, regime
+176	435	Appeal for political reform
+177	419	Express intent to cooperate on intelligence
+178	328	Expel or withdraw
+179	458	Demand release of persons or property
+180	410	Ease economic sanctions, boycott, embargo
+181	431	Express intent to change policy
+182	354	Refuse to ease economic sanctions, boycott, or embargo
+183	469	Demand mediation
+184	463	Reject request for change in leadership
+185	397	Accuse of aggression
+186	394	Demand intelligence cooperation
+187	457	Reduce or stop military assistance
+188	350	Engage in mass killings
+189	479	Engage in violent protest for leadership change
+190	486	Demand policy change
+191	481	Conduct hunger strike
+192	455	Accede to requests or demands for political reform
+193	426	Appeal for military protection or peacekeeping
+194	368	Appeal for policy change
+195	383	Demand judicial cooperation
+196	474	Express intent to ease economic sanctions, boycott, or embargo
+197	438	Appeal for target to allow international involvement (non-mediation)
+198	427	Ease political dissent
+199	464	Threaten with restrictions on political freedoms
+201	467	Demand rights
+202	340	Reduce or stop humanitarian assistance
+203	454	Demobilize armed forces
+204	417	Ease military blockade
+206	460	Demand economic cooperation
+207	439	Threaten to halt negotiations
+208	472	Investigate human rights abuses
+209	400	Use as human shield
+210	373	Violate ceasefire
+211	448	Receive inspectors
+212	389	Demand material aid
+213	432	Investigate war crimes
+214	447	Threaten to reduce or stop aid
+215	453	Reduce or stop material aid
+216	337	Demand military aid
+217	471	Impose curfew
+218	475	Demand political reform
+219	403	Demand easing of administrative sanctions
+220	451	Accede to demands for change in institutions, regime
+221	478	Carry out roadside bombing
+223	470	Reject request for economic aid
+224	484	Appeal for easing of economic sanctions, boycott, or embargo
+225	459	Appeal for easing of political dissent
+226	434	Express intent to institute political reform
+227	489	Ease ban on political parties or politicians
+228	465	Use chemical, biological, or radiological weapons
+229	487	Ease restrictions on political freedoms
+230	485	Engage in political dissent
+232	353	Reject request for rights
+233	405	Demand humanitarian aid
+234	421	Engage in mass expulsion
+235	436	Detonate nuclear weapons
+236	437	Reject mediation
+237	444	Reject request for military protection or peacekeeping
+238	446	Reject military cooperation
+239	449	Reject request for change in institutions, regime
+240	452	Reject request for policy change
+241	461	Ease curfew
+242	466	Appeal for military cooperation
+243	473	Threaten to halt mediation
+244	480	Express intent to allow international involvement (non-mediation)
+245	482	Engage in ethnic cleansing
+246	483	Reject request or demand for political reform
